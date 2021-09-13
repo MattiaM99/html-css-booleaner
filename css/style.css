@@ -38,3 +38,22 @@ h1 {
   ul{
     font-size: 20px;
   }
+  table{
+    font-weight: bold;
+  }
+  thead{
+    color: white;
+    background-color: #20A9E5;
+  }
+  tbody{
+    text-align:center;
+  }
+  th{
+    width: 500px;
+  }
+  .riga1  {
+    background-color: #B1E5F2;
+  }
+  .riga3 {
+    background-color: #B1E5F2;
+  }
