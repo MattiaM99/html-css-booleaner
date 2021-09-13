@@ -1,0 +1,40 @@
+header{
+  background-color: #4EABFF;
+  background-image: url('../img/pattern.png');
+  background-size: 30%;
+} 
+
+#logo {
+  height: 100px;
+  width: 400px;
+  margin-top: 50px;
+  margin-bottom: 10px;
+}
+
+h1 {
+  font-size: 50px;
+}
+ h2 {
+   color: grey;
+   font-size: 20px;
+ }
+ .nome{
+   color: lightskyblue;
+  }
+  .tim1{
+    width: 49%;
+    height: 700px;
+  }
+  .tim2{
+    width: 49%;
+    height: 700px;
+  }
+  .giallo{
+    background-color: yellow;
+  }
+  p {
+    font-size: 20px;
+  }
+  ul{
+    font-size: 20px;
+  }
